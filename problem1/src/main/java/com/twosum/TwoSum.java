@@ -1,4 +1,4 @@
-package src.main.java.com.problem1;
+package problem1.src.main.java.com.twosum;
 
 public class TwoSum {
     public int[] twoSum(int[] nums, int target) throws Exception {
