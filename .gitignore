@@ -25,3 +25,8 @@ replay_pid*
 
 # VS Code files
 .vscode
+
+# InteliJ IDEA files
+.idea
+.out
+*.impl
