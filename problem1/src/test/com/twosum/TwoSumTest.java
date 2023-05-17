@@ -1,4 +1,4 @@
-package problem1.src.test.java.com.twosum;
+package com.twosum;
 
 import static org.junit.Assert.assertTrue;
 import static org.junit.jupiter.api.Assertions.assertDoesNotThrow;
@@ -7,8 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertThrows;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-
-import problem1.src.main.java.com.twosum.TwoSum;
 
 public class TwoSumTest {
     private TwoSum twoSum;
