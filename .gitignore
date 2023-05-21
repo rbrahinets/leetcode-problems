@@ -28,5 +28,5 @@ replay_pid*
 
 # InteliJ IDEA files
 .idea
-.out
-*.impl
+/out
+*.iml
