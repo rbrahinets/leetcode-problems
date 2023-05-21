@@ -5,11 +5,11 @@ git checkout -b <branch>  # create new branch and switch to it
 
 git status  # check changes
 
-git add <file>  # add changed file
+git add "<file/directory>"  # add changed file/directory
 git add -A  # add all changed file
 
 git commit -m "Some message"  # commit changes
-git push --set-upstream origin <branch>  # push changes on GitHub
+git push [--set-upstream origin <branch>]  # push changes on GitHub
 
 # In the GitHub repository:
 # - "Compare & pull request" button.
